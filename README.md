@@ -3,4 +3,4 @@ The Documentation directory for the Library and Outlook classes. The code descri
 The main Documentation libraries used are: 
 - TypeDoc
 - PhpDoc
-######*The use of the reflection class in PHP and TypeScript is not yet implemented, but in the event it is needed, it will eventually be added*
+#####*The use of the reflection class in PHP and TypeScript is not yet implemented, but in the event it is needed, it will eventually be added*
