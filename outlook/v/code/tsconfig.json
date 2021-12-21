@@ -1,0 +1,17 @@
+{
+  "extends": "../../../library/v/code/tsconfig.json",
+  "compilerOptions": {
+    //"moduleResolution": "node"
+  },
+  "typedocOptions": {
+    "entryPoints": [
+      "app.ts",
+      "server.ts",
+      "outlook.ts",
+      "crud.ts",
+      "../../../library/v/code/server.ts"
+    ],
+    "out": "docs",
+    "name": "Outlook"
+  }
+}
